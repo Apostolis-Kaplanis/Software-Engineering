@@ -19,4 +19,5 @@ Included files (also *UML class diagrams* files) were generated via *Eclipse IDE
 
 Some project images:
 ![Latex1 sample image](/Images/Latex1.png)
+![Latex2 sample image](/Images/Latex2.png)
 
