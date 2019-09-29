@@ -14,5 +14,5 @@ Moreover this project is developed with some of the most common **design pattern
  
  Finally as every software engineering project, it is validated via **Acceptance Tests** that correspond to the different *user stories* that was asked. 
  
-
-Included files were generated via *Eclipse IDE*'s workspace.
+***Notes:***
+Included files (also *UML class diagrams* files) were generated via *Eclipse IDE*'s workspace.
