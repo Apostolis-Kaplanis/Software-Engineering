@@ -16,3 +16,5 @@ Moreover this project is developed with some of the most common **design pattern
  
 ***Notes:***
 Included files (also *UML class diagrams* files) were generated via *Eclipse IDE*'s workspace.
+
+
